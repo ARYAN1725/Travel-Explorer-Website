@@ -1,5 +1,5 @@
 import React from 'react'
-import './france.css';
+import './France.css';
 import Navbar from './Navbar';
 import UnsplashGallery from './UnsplashGallery';
 import Footer from './Footer';
